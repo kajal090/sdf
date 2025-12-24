@@ -80,20 +80,3 @@ This is an academic/learning project. Suggestions and feedback are welcome!
 ```
 
 ---
-
-## GitHub Topics/Tags (add these to your repository):
-```
-salesforce
-crm
-student-management
-lightning-platform
-salesforce-automation
-apex
-validation-rules
-data-modeling
-salesforce-reports
-dashboards
-coaching-institute
-education-management
-tcs-project
-salesforce-developer
